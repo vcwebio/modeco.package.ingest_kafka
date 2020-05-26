@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+export CONTECO_LABEL="package.ingest - ModEco"
+export CONTECO_DESCRIPTION="The ingest module package."
+
+export CONTECO_TYPE="package"
+export CONTECO_NAME="ingest"
+export CONTECO_TAG="7.1.1"
+export CONTECO_TAG_TYPE="incremental"
+
+export CONTECO_BASE="image.wrapper"
+export CONTECO_BUILD="modeco"
