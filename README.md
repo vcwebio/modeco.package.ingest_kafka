@@ -1,6 +1,6 @@
-# `package.ingest_ssl` - ModEco
+# `package.ingest_sasl` - ModEco
 
-The ModEco ingest SSL module package based on filebeat.  
+The ingest package, with SASL authentication.  
 See `conteco.docs.overview` for more information on the ModEco ecosystem.
 
 This package is intended to be used for general purpose data ingestion.  

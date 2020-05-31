@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
-export CONTECO_LABEL="package.ingest_ssl - ModEco"
-export CONTECO_DESCRIPTION="The ingest SSL module package."
+export CONTECO_LABEL="package.ingest_sasl - ModEco"
+export CONTECO_DESCRIPTION="The ingest package, with SASL authentication."
 
 export CONTECO_TYPE="package"
-export CONTECO_NAME="ingest_ssl"
+export CONTECO_NAME="ingest_sasl"
 export CONTECO_TAG="7.1.1"
 export CONTECO_TAG_TYPE="incremental"
 
