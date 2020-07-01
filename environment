@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 
 export CONTECO_LABEL="package.ingest_sasl - ModEco"
-export CONTECO_DESCRIPTION="The ingest package, with SASL authentication."
+export CONTECO_DESCRIPTION="The ingest package based on filebeat with Kafka input."
 
 export CONTECO_TYPE="package"
-export CONTECO_NAME="ingest_sasl"
-export CONTECO_TAG="7.1.1"
+export CONTECO_NAME="ingest_kafka"
+export CONTECO_TAG="7.8.0"
 export CONTECO_TAG_TYPE="incremental"
 
 export CONTECO_BASE="image.wrapper"
